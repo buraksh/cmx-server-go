@@ -1,0 +1,292 @@
+{
+  "userLevels": [
+    {
+      "ancestry": [],
+      "parents": [],
+      "tag": false,
+      "children": [
+        {
+          "id": 2,
+          "level": "SUPERZONE",
+          "address": null,
+          "tag": false,
+          "name": "Building",
+          "userLevel": true,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": 79,
+          "level": "SUPERZONE",
+          "address": null,
+          "tag": false,
+          "name": "System Campus",
+          "ancestors": [],
+          "userLevel": false,
+          "longitude": 0,
+          "latitude": 0
+        }
+      ],
+      "originalName": "Campus",
+      "version": 1,
+      "id": 1,
+      "validTo": "Fri Oct 14 14:54:40 GST 2118",
+      "level": "SUPERZONE",
+      "name": "Campus",
+      "validFrom": "Sun Oct 14 14:54:40 GST 2018",
+      "userLevel": true,
+      "hashtags": [],
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "ancestry": [],
+      "parents": [
+        {
+          "id": 1,
+          "level": "SUPERZONE",
+          "address": null,
+          "tag": false,
+          "name": "Campus",
+          "userLevel": true,
+          "longitude": null,
+          "latitude": null
+        }
+      ],
+      "tag": false,
+      "children": [
+        {
+          "id": 45,
+          "level": "SUPERZONE",
+          "address": null,
+          "tag": false,
+          "name": "Endurance city",
+          "ancestors": [
+            "System Campus"
+          ],
+          "userLevel": false,
+          "longitude": 0,
+          "latitude": 0
+        },
+        {
+          "id": 3,
+          "level": "SUPERZONE",
+          "address": null,
+          "tag": false,
+          "name": "Floor",
+          "userLevel": true,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": 78,
+          "level": "SUPERZONE",
+          "address": null,
+          "tag": false,
+          "name": "Meyadn Outdoor",
+          "ancestors": [
+            "System Campus"
+          ],
+          "userLevel": false,
+          "longitude": 0,
+          "latitude": 0
+        }
+      ],
+      "originalName": "Building",
+      "version": 1,
+      "id": 2,
+      "validTo": "Fri Oct 14 14:54:41 GST 2118",
+      "level": "SUPERZONE",
+      "name": "Building",
+      "validFrom": "Sun Oct 14 14:54:41 GST 2018",
+      "userLevel": true,
+      "hashtags": [],
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "ancestry": [],
+      "parents": [
+        {
+          "id": 2,
+          "level": "SUPERZONE",
+          "address": null,
+          "tag": false,
+          "name": "Building",
+          "userLevel": true,
+          "longitude": null,
+          "latitude": null
+        }
+      ],
+      "tag": false,
+      "children": [
+        {
+          "id": 44,
+          "level": "FLOOR",
+          "floorNumber": 1,
+          "tag": false,
+          "name": "Ground Floor",
+          "ancestors": [
+            "System Campus",
+            "Endurance city"
+          ],
+          "userLevel": false
+        },
+        {
+          "id": 77,
+          "level": "FLOOR",
+          "floorNumber": 0,
+          "tag": false,
+          "name": "Meyadn Outdoor",
+          "ancestors": [
+            "System Campus",
+            "Meyadn Outdoor"
+          ],
+          "userLevel": false
+        },
+        {
+          "id": 4,
+          "level": "SUPERZONE",
+          "address": null,
+          "tag": false,
+          "name": "Zone",
+          "userLevel": true,
+          "longitude": null,
+          "latitude": null
+        }
+      ],
+      "originalName": "Floor",
+      "version": 1,
+      "id": 3,
+      "validTo": "Fri Oct 14 14:54:41 GST 2118",
+      "level": "SUPERZONE",
+      "name": "Floor",
+      "validFrom": "Sun Oct 14 14:54:41 GST 2018",
+      "userLevel": true,
+      "hashtags": [],
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "ancestry": [],
+      "parents": [
+        {
+          "id": 3,
+          "level": "SUPERZONE",
+          "address": null,
+          "tag": false,
+          "name": "Floor",
+          "userLevel": true,
+          "longitude": null,
+          "latitude": null
+        }
+      ],
+      "tag": false,
+      "children": [
+        {
+          "v1": {
+            "y": 389.64,
+            "version": 1,
+            "x": 237.26
+          },
+          "v0": {
+            "y": 355.26,
+            "version": 1,
+            "x": 237.26
+          },
+          "topLeft": {
+            "y": 355.26,
+            "x": 237.26
+          },
+          "v4": {
+            "y": 355.26,
+            "version": 1,
+            "x": 237.26
+          },
+          "tag": false,
+          "v3": {
+            "y": 356.96,
+            "version": 1,
+            "x": 461.79
+          },
+          "vertices": 5,
+          "v2": {
+            "y": 389.64,
+            "version": 1,
+            "x": 461.37
+          },
+          "id": 42,
+          "level": "ZONE",
+          "bottomRight": {
+            "y": 389.64,
+            "x": 461.79
+          },
+          "name": "Villa AUH",
+          "userLevel": false,
+          "ancestors": [
+            "System Campus",
+            "Endurance city",
+            "Ground Floor"
+          ]
+        },
+        {
+          "v1": {
+            "y": 66.85,
+            "version": 1,
+            "x": 258.91
+          },
+          "v0": {
+            "y": 37.49,
+            "version": 1,
+            "x": 258.91
+          },
+          "topLeft": {
+            "y": 36.43,
+            "x": 258.91
+          },
+          "v4": {
+            "y": 37.49,
+            "version": 1,
+            "x": 258.91
+          },
+          "tag": false,
+          "v3": {
+            "y": 36.43,
+            "version": 1,
+            "x": 455.21
+          },
+          "vertices": 5,
+          "v2": {
+            "y": 63.31,
+            "version": 1,
+            "x": 455.21
+          },
+          "id": 43,
+          "level": "ZONE",
+          "bottomRight": {
+            "y": 66.85,
+            "x": 455.21
+          },
+          "name": "Villa DXB",
+          "userLevel": false,
+          "ancestors": [
+            "System Campus",
+            "Endurance city",
+            "Ground Floor"
+          ]
+        }
+      ],
+      "originalName": "Zone",
+      "version": 1,
+      "id": 4,
+      "validTo": "Fri Oct 14 14:54:41 GST 2118",
+      "level": "SUPERZONE",
+      "name": "Zone",
+      "validFrom": "Sun Oct 14 14:54:41 GST 2018",
+      "userLevel": true,
+      "hashtags": [],
+      "longitude": null,
+      "latitude": null
+    }
+  ]
+}
